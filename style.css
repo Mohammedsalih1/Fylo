@@ -154,7 +154,7 @@ header .container .nav li a {color: black;}
 .section-two {
     padding-top: 80px;
     padding-bottom: 100px;
-    background: url(./images/bg-curve-desktop.svg) center;
+    background: url(bg-curve-desktop.svg) center;
     background-size: cover;
 }
 .section-two .container {
