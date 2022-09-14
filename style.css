@@ -70,7 +70,7 @@ header .container img {
     width: 115px;
     cursor: pointer;
 }
-header .container .nav li a {color: black;}
+header .container .nav li a {color: black; margin-right: 10px;}
 @media (max-width: 768px) {
     header .container .nav {
         gap: 15px;
