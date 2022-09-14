@@ -204,7 +204,7 @@ header .container .nav li a {color: black; margin-right: 10px;}
 .section-two .container .info .quote .accont {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
 }
 .section-two .container .info .quote > img {
     width: 30px;
